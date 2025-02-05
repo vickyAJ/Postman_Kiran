@@ -1,0 +1,75 @@
+{
+	"id": "fd79b523-15a3-4c20-8a4a-4cc245a2d9e1",
+	"values": [
+		{
+			"key": "gProtocol",
+			"value": "https",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gURL",
+			"value": "gorest.co.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gName",
+			"value": "Automation",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gEmail",
+			"value": "auto@mation.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gGender",
+			"value": "male",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gStatus",
+			"value": "active",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globalID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalStatus",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalUpdatedName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-02-05T15:53:46.739Z",
+	"_postman_exported_using": "Postman/11.31.1"
+}
